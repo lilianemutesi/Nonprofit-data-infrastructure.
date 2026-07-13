@@ -22,6 +22,4 @@ Instead of highlighting technical data cleaning anomalies, this repository showc
 ---
 
 ## 📂 Repository Contents
-*(Once uploaded, your project files will sit here)*
-* `/Dashboard-Screenshots` - High-resolution captures of the interactive dashboard tabs.
-* `Operational_Impact_Dashboard.pbix` - The complete Power BI Desktop file containing the data model and visual layers.
+* `Operational Impact Dashboard.pdf` - High-resolution PDF export displaying the interactive dashboard layers, location tracking metrics, and final executive layout designs.
